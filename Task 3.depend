@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606762554 source:c:\users\Владимир\desktop\Матмех\3 семестр\task 3\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+
