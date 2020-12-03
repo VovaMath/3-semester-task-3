@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1607015098 source:d:\w\c2\vova3sem3\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+
