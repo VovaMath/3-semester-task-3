@@ -70,6 +70,7 @@ void Dim1_to_Dim2(vector<int>&A, vector<vector<int>> &B, int mx)
         *iBB = *iA;
 
     }
+    B=B1;
 }
 //------------------------------------------------------
 int main()
